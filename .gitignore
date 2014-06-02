@@ -8,6 +8,7 @@ venv*
 build/*
 
 dist
+
 emcee.egg-info
 MANIFEST
 docs.tar
